@@ -10,7 +10,7 @@ Choices:
 
   Focal Variable: # reserved keyword
 #     - Only female: only_female
-- Proportion of women: prop_women
+      - Proportion of women: prop_women
 #     - Only male: only_male
   Control Variables: # reserved keyword
     - Baseline: both_genders log_num_authors log_num_pages jel_flag
